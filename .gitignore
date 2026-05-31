@@ -1,0 +1,20 @@
+# 编译生成和缓存目录
+Intermediate/
+Saved/
+Binaries/
+DerivedDataCache/
+
+# 打包输出
+Distribution/
+Build/
+
+# IDE 配置
+.vs/
+*.sln
+*.vcxproj
+*.user
+
+# 其他杂项
+*.log
+*.swatch
+*.swo
